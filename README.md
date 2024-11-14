@@ -2,6 +2,8 @@
 
 O **Refund** é uma aplicação simples desenvolvida em JavaScript para gerenciar despesas durante viagens a trabalho, permitindo que o usuário registre suas despesas e acompanhe o valor total a ser reembolsado pela empresa.
 
+![Refund](img/refund.png)
+
 ## ⚙️ Funcionalidades
 
 - 💵 **Adicionar Despesas**: O usuário pode adicionar uma despesa informando o valor 💵 e a categoria 🏷️ da despesa.
@@ -17,9 +19,11 @@ O **Refund** é uma aplicação simples desenvolvida em JavaScript para gerencia
 ## 🚀 Como Usar
 
 1. Clone o repositório:
-   ```bash
-   git clone 
-   ```
+
+```bash
+git clone https://github.com/joschonarth/refund-tracker
+```
+
 2. Abra o arquivo `index.html` no seu navegador 🌐.
 3. Adicione uma despesa selecionando a categoria 🏷️ e inserindo o valor 💵 da despesa.
 4. Após adicionar as despesas, um relatório será gerado automaticamente 📈, mostrando a lista de despesas e o valor total a ser reembolsado.
